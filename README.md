@@ -3,3 +3,6 @@
 ## Components Design
 
 Created by Niels Thys
+
+- listitem 1
+- listitem 2
