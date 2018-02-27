@@ -1,0 +1,51 @@
+h1{
+    font-family: 'Krona One', sans-serif;
+}
+
+
+
+.btn{
+
+    border: 1px solid #f00;
+    padding: 5px 16px;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #f00;
+    font-family: 'Krona One', sans-serif;
+    
+
+}
+
+.btn:hover{
+
+    background: #f00;
+    color: #FFF;
+
+}
+
+.primary-btn{
+
+    background: #FFF;
+    color: #0F0;
+    border-color: #0F0;
+}
+.primary-btn:hover{
+
+    background: #0F0;
+    color: #FFF;
+}
+
+
+.secondary-btn{
+
+    background: #FFF;
+    color: #00F;
+    border-color: #00F;
+
+}
+.secondary-btn:hover{
+
+    background: #00F;
+    color: #FFF;
+
+}
